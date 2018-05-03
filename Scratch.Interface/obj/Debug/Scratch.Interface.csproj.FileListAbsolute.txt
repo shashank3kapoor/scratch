@@ -1,0 +1,7 @@
+D:\src\research\scratch\Scratch\Scratch.Interface\bin\Debug\Scratch.Interface.dll
+D:\src\research\scratch\Scratch\Scratch.Interface\bin\Debug\Scratch.Interface.pdb
+D:\src\research\scratch\Scratch\Scratch.Interface\bin\Debug\Ninject.dll
+D:\src\research\scratch\Scratch\Scratch.Interface\bin\Debug\Ninject.xml
+D:\src\research\scratch\Scratch\Scratch.Interface\obj\Debug\Scratch.Interface.csprojResolveAssemblyReference.cache
+D:\src\research\scratch\Scratch\Scratch.Interface\obj\Debug\Scratch.Interface.dll
+D:\src\research\scratch\Scratch\Scratch.Interface\obj\Debug\Scratch.Interface.pdb

@@ -1,0 +1,16 @@
+D:\src\research\scratch\Scratch\Scratch.Database\bin\Debug\Scratch.Database.exe.config
+D:\src\research\scratch\Scratch\Scratch.Database\bin\Debug\Scratch.Database.exe
+D:\src\research\scratch\Scratch\Scratch.Database\bin\Debug\Scratch.Database.pdb
+D:\src\research\scratch\Scratch\Scratch.Database\bin\Debug\EntityFramework.dll
+D:\src\research\scratch\Scratch\Scratch.Database\bin\Debug\EntityFramework.SqlServer.dll
+D:\src\research\scratch\Scratch\Scratch.Database\bin\Debug\EntityFramework.xml
+D:\src\research\scratch\Scratch\Scratch.Database\bin\Debug\EntityFramework.SqlServer.xml
+D:\src\research\scratch\Scratch\Scratch.Database\obj\Debug\Scratch.Database.csprojResolveAssemblyReference.cache
+D:\src\research\scratch\Scratch\Scratch.Database\obj\Debug\Scratch.Database.exe
+D:\src\research\scratch\Scratch\Scratch.Database\obj\Debug\Scratch.Database.pdb
+D:\src\research\scratch\Scratch\Scratch.Database\bin\Debug\Ninject.dll
+D:\src\research\scratch\Scratch\Scratch.Database\bin\Debug\Scratch.Interface.dll
+D:\src\research\scratch\Scratch\Scratch.Database\bin\Debug\Scratch.Service.dll
+D:\src\research\scratch\Scratch\Scratch.Database\bin\Debug\Scratch.Interface.pdb
+D:\src\research\scratch\Scratch\Scratch.Database\bin\Debug\Scratch.Service.pdb
+D:\src\research\scratch\Scratch\Scratch.Database\bin\Debug\Ninject.xml
